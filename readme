@@ -1,0 +1,5 @@
+Development of the react application
+First, the react app was created, with the create-react-app terminal
+Second, the importJson component was created to import the Json content from the web page.
+Third, everything was rendered in the app.
+Fourth, the CSS file was created to present a user-friendly environment
